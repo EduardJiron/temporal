@@ -1,0 +1,208 @@
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\ApplicationInsights.config
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\roslyn\csc.exe
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\roslyn\csc.exe.config
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\roslyn\csc.rsp
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\roslyn\csi.exe
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\roslyn\csi.rsp
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\roslyn\System.AppContext.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\roslyn\vbc.exe
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\roslyn\vbc.exe.config
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\roslyn\vbc.rsp
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\roslyn\VBCSCompiler.exe
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\TestingASP.dll.config
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\TestingASP.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\TestingASP.pdb
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\Antlr3.Runtime.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\Microsoft.AI.Web.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\Microsoft.ApplicationInsights.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\Newtonsoft.Json.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\System.Web.Optimization.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\WebGrease.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\System.Web.Optimization.xml
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\Antlr3.Runtime.pdb
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\Newtonsoft.Json.xml
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\Microsoft.ApplicationInsights.xml
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\Microsoft.AI.Web.xml
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\es\System.Web.Optimization.resources.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\obj\Debug\TestingASP.csprojResolveAssemblyReference.cache
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\obj\Debug\TestingASP.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\obj\Debug\TestingASP.pdb
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\EntityFramework.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\EntityFramework.SqlServer.dll
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\EntityFramework.xml
+C:\Users\David\OneDrive\Documentos\Visual Studio 2017\Projects\TestingASP\TestingASP\bin\EntityFramework.SqlServer.xml
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\ApplicationInsights.config
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\roslyn\csc.exe
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\roslyn\csc.exe.config
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\roslyn\csc.rsp
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\roslyn\csi.exe
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\roslyn\csi.rsp
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\roslyn\System.AppContext.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\roslyn\vbc.exe
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\roslyn\vbc.exe.config
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\roslyn\vbc.rsp
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\roslyn\VBCSCompiler.exe
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\TestingASP.dll.config
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\TestingASP.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\TestingASP.pdb
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\Antlr3.Runtime.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\EntityFramework.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\EntityFramework.SqlServer.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\Microsoft.AI.Web.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\Microsoft.ApplicationInsights.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\Newtonsoft.Json.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\System.Web.Optimization.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\WebGrease.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\EntityFramework.xml
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\EntityFramework.SqlServer.xml
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\System.Web.Optimization.xml
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\Antlr3.Runtime.pdb
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\Newtonsoft.Json.xml
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\Microsoft.ApplicationInsights.xml
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\Microsoft.AI.Web.xml
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\es\System.Web.Optimization.resources.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\obj\Debug\TestingASP.csprojAssemblyReference.cache
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\obj\Debug\TestingASP.csproj.CoreCompileInputs.cache
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\obj\Debug\TestingASP.csproj.CopyComplete
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\obj\Debug\TestingASP.dll
+C:\Users\EduardJiron\Documents\Patrones-CleanCode-main (2)\Patrones-CleanCode-main\TestingASP\obj\Debug\TestingASP.pdb
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\ApplicationInsights.config
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\roslyn\csc.exe
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\roslyn\csc.exe.config
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\roslyn\csc.rsp
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\roslyn\csi.exe
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\roslyn\csi.rsp
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\roslyn\System.AppContext.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\roslyn\vbc.exe
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\roslyn\vbc.exe.config
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\roslyn\vbc.rsp
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\TestingASP.dll.config
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\TestingASP.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\TestingASP.pdb
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\Antlr3.Runtime.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\EntityFramework.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\EntityFramework.SqlServer.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\Microsoft.AI.Web.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\Newtonsoft.Json.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\System.Web.Optimization.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\WebGrease.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\EntityFramework.xml
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\EntityFramework.SqlServer.xml
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\System.Web.Optimization.xml
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\Antlr3.Runtime.pdb
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\Newtonsoft.Json.xml
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\Microsoft.AI.Web.xml
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\obj\Debug\TestingASP.csproj.AssemblyReference.cache
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\obj\Debug\TestingASP.csproj.CoreCompileInputs.cache
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\obj\Debug\TestingASP.csproj.CopyComplete
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\obj\Debug\TestingASP.dll
+C:\Users\Eduar\Desktop\Patrones-CleanCode-main\TestingASP\obj\Debug\TestingASP.pdb

@@ -1,0 +1,57 @@
+﻿.cleancode-logo{
+    width: 128px;
+    height: 128px;
+}
+
+.cleancode-data{
+    flex-direction:row;
+    background-color: white;
+}
+
+.cleancode-text > h2{
+    color: var(--green-main);
+}
+
+.cleancode-text > h2{
+    margin: 2px;
+}
+.cleancode-text > p{
+    margin: 2px;
+}
+
+.cleancode-members{
+    flex-wrap: wrap;
+    gap: 15px;
+    padding: 10px;
+    display: flex;
+    background-color: white;
+}
+
+.generic-member{
+    padding: 10px;
+    background-color: var(--gray);
+    justify-content: flex-start;
+    gap: 10px;
+}
+
+.generic-member > div > h3,h4{
+    margin: 0;
+}
+
+.generic-member > div > h4{
+    color: var(--skyblue-main);
+    font-weight: 500;
+}
+
+.generic-member > div > h3{
+    color: var(--blue-main);
+    font-weight: 500;
+}
+
+
+.generic-member > img{
+    background-color: var(--skyblue-main);
+    width: 64px;
+    height: 64px;
+}
+

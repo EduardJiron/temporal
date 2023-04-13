@@ -1,0 +1,37 @@
+﻿[
+  {
+    "name": "Benjamín Narváez Pineda",
+    "position": "Ingeniero de aseguramiento de calidad",
+    "expo": "proto"
+  },
+  {
+    "name": "David Mauricio Quintanilla Ruiz",
+    "position": "Gerente de Proyecto",
+    "expo": "deco"
+  },
+  {
+    "name": "David Sebastián Parales Ponce",
+    "position": "Arquitecto de Software",
+    "expo": "deco"
+  },
+  {
+    "name": "Eduard Manuel Jiron Orozco",
+    "position": "Analista de sistema",
+    "expo": "proto"
+  },
+  {
+    "name": "Erick Oswaldo González Gallegos",
+    "position": "Jefe de Desarrollo",
+    "expo": "deco"
+  },
+  {
+    "name": "Geraldine Belen Porras Villalta",
+    "position": "Analista de Negocio",
+    "expo": "proto"
+  },
+  {
+    "name": "Riuske Mateo Nishime Robleto",
+    "position": "Administrador de la configuración",
+    "expo": "deco"
+  }
+]

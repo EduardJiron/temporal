@@ -1,0 +1,79 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="TestingASP.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="es">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %></title>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+
+    
+    <link href="~/Content/prototype.css" type="text/css" rel="stylesheet"/>
+    <link href="~/Content/Presentation.css" type="text/css" rel="stylesheet"/> <!-- This is only for CleanCode!!!-->
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+
+</head>
+<body>
+    <nav class="nav dflex">
+        <h3 class="nav-brand">EXPEDOC</h3>
+        <div class="nav-identity dflex-all-center br-default">
+            <div class="nav-identity-user dflex-all-center br-circle">
+                <img class="nav-identity-user-img"  src="assets/img/user-regular.svg"/>
+            </div>
+            <div class="nav-identity-info">
+                <p class="nav-identity-info-username">CleanCode</p>
+                <p class="nav-identity-info-role">Administrador</p>
+            </div>
+            <div class="nav-identity-change dflex-all-center br-default">
+                <i class="fa-solid fa-angle-right fa-xl" style="color: #ffffff;"></i>
+            </div>
+        </div>
+
+        <div class="nav-element">
+            <a runat="server" href="~/Default"><div class="nav-element-holder element-start dflex br-default mtop-1" runat="server" id="elementDecorator">
+                <i class="fa-solid fa-table-columns fa-xl"></i>
+                <p>Inicio</p>
+            </div></a>
+
+            <a runat="server" href="~/wfPrototype"><div class="nav-element-holder element-proto dflex br-default mtop-1" runat="server" id="elementPrototype">
+                <i class="fa-solid fa-draw-polygon fa-xl"></i>
+                <p>Protoype</p>
+            </div></a>
+            
+             <a runat="server" href="~/wfDecorator"><div class="nav-element-holder element-decorator dflex br-default mtop-1" runat="server" id="elementStart">
+                <i class="fa-solid fa-book fa-xl"></i>
+                <p>Decorator</p>
+            </div></a>
+
+        </div>
+
+        <div class="nav-specials">
+
+        </div>
+
+    </nav>
+
+    <div class="container active-nav">
+        <header class="header">
+            <div class="header-nav">
+                <i class="fa-solid fa-bars fa-2xl" style="color: #ffffff;"></i>
+            </div>
+            <div class="header-brand">
+                <h3>Expediente<br>Docente</h3>
+            </div>
+        </header>
+        <div class="body-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </div>
+    <script src="assets/script/navbehavior.js"></script>
+</body>
+</html>
